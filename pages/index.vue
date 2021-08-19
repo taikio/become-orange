@@ -142,7 +142,7 @@ $text-color: #FAFAFA;
   background: linear-gradient(180deg, #FFB674 0%, #A44E00 100%);
 }
 .page__body-vuejs-image figure img {
-  max-width: 630px;
+  max-width: 764px;
 }
 
 
@@ -152,7 +152,9 @@ $text-color: #FAFAFA;
 }
 
 @media screen and (min-width: 1025px) and (max-width: 1440px) {
-
+  .page__body-vuejs-image figure img {
+    max-width: 630px;
+  }
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
