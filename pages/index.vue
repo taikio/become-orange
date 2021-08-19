@@ -145,8 +145,6 @@ $text-color: #FAFAFA;
   max-width: 764px;
 }
 
-
-
 @media screen and (min-width: 1441px) and (max-width: 1930px) {
 
 }
